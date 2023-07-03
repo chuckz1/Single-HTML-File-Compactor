@@ -1,0 +1,1 @@
+# Single HTML File Compactor
